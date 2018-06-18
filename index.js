@@ -6,5 +6,5 @@ console.log("Name:");
 console.log(Name);
 
 console.log("Height:");
-console.log(parseInt(Height)+1);
+console.log(Height)+1;
 
