@@ -6,5 +6,5 @@ console.log("Name:");
 console.log(Name);
 
 console.log("Height:");
-console.log(height);
+console.log(Height);
 
